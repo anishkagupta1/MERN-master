@@ -2,26 +2,7 @@
 
 A full-stack Learning Management System (LMS) built with the MERN stack (MongoDB, Express.js, React, Node.js). This platform allows instructors to create and manage courses, and students to browse, purchase, and track their learning progress.
 
----
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-  - [Running the App](#running-the-app)
-- [Key Functionality](#key-functionality)
-  - [Authentication](#authentication)
-  - [Instructor Features](#instructor-features)
-  - [Student Features](#student-features)
-  - [Media Upload](#media-upload)
-  - [Payments](#payments)
-- [Folder Overview](#folder-overview)
-- [License](#license)
 
 ---
 
